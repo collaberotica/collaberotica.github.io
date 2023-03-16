@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://klise.now.sh/log-23-3/</loc>
+<loc>/log-23-3/</loc>
 <lastmod>2023-03-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://klise.now.sh/news-launched/</loc>
+<loc>/news-launched/</loc>
 <lastmod>2023-03-16T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://klise.now.sh/about/</loc>
+<loc>/about/</loc>
 </url>
 <url>
-<loc>https://klise.now.sh/archive/</loc>
+<loc>/archive/</loc>
 </url>
 <url>
-<loc>https://klise.now.sh/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>https://klise.now.sh/tags/</loc>
+<loc>/tags/</loc>
 </url>
 </urlset>

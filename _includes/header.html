@@ -102,74 +102,17 @@
   <meta property="og:image:width" content="640" />
   <meta property="og:image:height" content="640" />
   <meta name="twitter:card" content="summary" />
-  <meta
-    name="twitter:title"
-    content="{% if page.title %}{{ page.title | escape }} | {{
-      site.author.twitter
-    }}{% else %}{{ site.title | escape }}{% endif %}"
-  />
-  <meta
-    name="twitter:url"
-    content="{{
-      page.url  | remove: 'index.html' | remove: '.html' | absolute_url
-    }}"
-  />
-  <meta name="twitter:site" content="@{{ site.author.twitter }}" />
-  <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
-  <meta
-    name="twitter:description"
-    content="{{
-      page.description
-        | default: site.description
-        | strip_html
-        | normalize_whitespace
-        | truncate: 200
-        | escape
-    }}"
-  />
   {% if page.image %}
   <meta name="twitter:image" content="{{ page.image | absolute_url }}" />
   {% else %}
   <meta name="twitter:image" content="{{ site.image | absolute_url }}" />
   {% endif %} {% feed_meta %}
   <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="/assets/favicons/apple-touch-icon.png"
-  />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="/assets/favicons/favicon-32x32.png"
-  />
-  <link
     rel="icon"
     type="image/png"
     sizes="16x16"
-    href="/assets/favicons/favicon-16x16.png"
+    href="/assets/img/final_16.png"
   />
-  <link rel="manifest" href="/assets/favicons/site.webmanifest" />
-  <link
-    rel="mask-icon"
-    href="/assets/favicons/safari-pinned-tab.svg"
-    color="#5bbad5"
-  />
-  <meta name="apple-mobile-web-app-title" content="Jekyll Klise" />
-  <meta name="application-name" content="Jekyll Klise" />
-  <meta name="msapplication-TileColor" content="#da532c" />
-  <meta name="theme-color" content="#2c2c2c" />
-
+  <meta name="theme-color" content="#E69840" />
   <link rel="stylesheet" href="/assets/css/style.css" />
-
-  <!-- for mathjax support -->
-  {% if page.usemathjax %}
-    <script type="text/x-mathjax-config">
-      MathJax.Hub.Config({
-      TeX: { equationNumbers: { autoNumber: "AMS" } }
-      });
-    </script>
-    <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  {% endif %}
-    
 </head>
