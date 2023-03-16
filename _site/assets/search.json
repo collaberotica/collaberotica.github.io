@@ -6,46 +6,6 @@
       "tags"     : "devlog",
       "url"      : "/23-march/",
       "date"     : "2023-03-01 00:00:00 -0500"
-    } ,
-  
-    {
-      "title"    : "Maths Example with Mathjax",
-      "description" : "",
-      "tags"     : "",
-      "url"      : "/maths-example/",
-      "date"     : "2021-06-16 18:57:49 -0400"
-    } ,
-  
-    {
-      "title"    : "Cara ribet memperbarui forked repo",
-      "description" : "Ada dua cara untuk memperbarui forked repository menggunakan web interface yang disediakan oleh github tapi ribet, atau melalui terminal yang lebih ribet lagi.",
-      "tags"     : "tips, git, software",
-      "url"      : "/cara-memperbarui-fork-repository/",
-      "date"     : "2020-01-28 13:00:00 -0500"
-    } ,
-  
-    {
-      "title"    : "How this site was born 👶",
-      "description" : "All the services are free, a source code this site placed on github repository and intergration with netlify service, another service that you can use is github page for hosting your own static site.",
-      "tags"     : "blog, netlify, jekyll, github",
-      "url"      : "/how-this-site-was-made/",
-      "date"     : "2018-09-27 22:45:47 -0400"
-    } ,
-  
-    {
-      "title"    : "Python Notes from Intro to Machine Learning",
-      "description" : "Notes and code snippets of Python that I&#39;ve been collecting so far throughout the &quot;Intro to Machine Learning&quot; course.",
-      "tags"     : "python, machine-learning",
-      "url"      : "/python-notes-from-Intro-to-machine-learning/",
-      "date"     : "2018-04-13 23:00:00 -0400"
-    } ,
-  
-    {
-      "title"    : "React Component with Dot Notation",
-      "description" : "Learn how to define a React component that is accessible through the dot notation. A common component pattern to show a parent-child relation.",
-      "tags"     : "javascript, react",
-      "url"      : "/react-component-with-dot-notation/",
-      "date"     : "2018-04-07 12:04:00 -0400"
     } 
   
 ]
