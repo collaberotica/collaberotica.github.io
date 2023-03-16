@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://klise.now.sh/feed.xml" rel="self" type="application/atom+xml" /><link href="https://klise.now.sh/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-03-16T16:28:37-04:00</updated><id>https://klise.now.sh/feed.xml</id><title type="html">Collaberotica Devlog</title><subtitle>Collaberotica. Devlog.</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Development Log - Changes in March, 2023</title><link href="https://klise.now.sh/23-march/" rel="alternate" type="text/html" title="Development Log - Changes in March, 2023" /><published>2023-03-01T00:00:00-05:00</published><updated>2023-03-01T00:00:00-05:00</updated><id>https://klise.now.sh/23-march</id><content type="html" xml:base="https://klise.now.sh/23-march/"><![CDATA[<h2 id="16">16</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://klise.now.sh/feed.xml" rel="self" type="application/atom+xml" /><link href="https://klise.now.sh/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-03-16T17:11:25-04:00</updated><id>https://klise.now.sh/feed.xml</id><title type="html">Collaberotica Devlog</title><subtitle>Collaberotica. Devlog.</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Site News Launched</title><link href="https://klise.now.sh/news-launched/" rel="alternate" type="text/html" title="Site News Launched" /><published>2023-03-16T00:00:00-04:00</published><updated>2023-03-16T00:00:00-04:00</updated><id>https://klise.now.sh/news-launched</id><content type="html" xml:base="https://klise.now.sh/news-launched/"><![CDATA[<p>The site news page has launched!</p>
+
+<p>(In fact, you’re looking at it right now)</p>
+
+<p>This page will host monthly changelogs, as well as site announcements. Keep an eye on the <a href="/">home page</a> for new posts.</p>]]></content><author><name>Collaberotica</name></author><category term="news" /><summary type="html"><![CDATA[The site news page has launched!]]></summary></entry><entry><title type="html">Development Log - Changes in March, 2023</title><link href="https://klise.now.sh/log-23-3/" rel="alternate" type="text/html" title="Development Log - Changes in March, 2023" /><published>2023-03-01T00:00:00-05:00</published><updated>2023-03-01T00:00:00-05:00</updated><id>https://klise.now.sh/log-23-3</id><content type="html" xml:base="https://klise.now.sh/log-23-3/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+
+<h2 id="16">16</h2>
 
 <h5 id="single-chapter-stories-now-sync-tags-with-their-chapter">Single-chapter stories now sync tags with their chapter</h5>
 
@@ -35,4 +41,4 @@
 
 <p><img src="/assets/img/yay.png" width="200px" height="200px" alt="party popper" /></p>
 
-<p>(You have reached the earliest post of the development log!)</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[16]]></summary></entry></feed>
+<p>(You have reached the earliest post of the development log!)</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[This page will be updated until the month is over.]]></summary></entry></feed>
