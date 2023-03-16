@@ -53,7 +53,6 @@ layout: compress
             <span hidden itemprop="image">{{ page.image }}</span>
           </div>
           {% endif %}
-        </header>
 
           {% if page.tags and page.tags != empty %}
           <div class="tags">
@@ -67,6 +66,8 @@ layout: compress
             </span>
           </div>
           {% endif %}
+        </header>
+
 
         <div class="page-content" itemprop="articleBody">
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}

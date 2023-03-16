@@ -3,6 +3,15 @@ layout: default
 home: true
 ---
 
+{% for post in site.tags["devlog"] limit:1 %}
+<div style="width:100%; display: flex; flex-direction: row; justify-content: center;">
+<a href="{{ post.url }}" style="">
+  See the latest site changes
+</a>
+</div>
+{% endfor %}
+
+
 <h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
 {%- for post in site.posts limit: site.number_of_posts -%}
 <article class="post-item">
