@@ -1,8 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-03-16T18:38:41-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica Devlog</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Site News Launched</title><link href="/news-launched/" rel="alternate" type="text/html" title="Site News Launched" /><published>2023-03-16T00:00:00-04:00</published><updated>2023-03-16T00:00:00-04:00</updated><id>/news-launched</id><content type="html" xml:base="/news-launched/"><![CDATA[<p>The site news page has launched!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-03-21T21:18:56-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Site News Launched</title><link href="/news-launched/" rel="alternate" type="text/html" title="Site News Launched" /><published>2023-03-16T00:00:00-04:00</published><updated>2023-03-16T00:00:00-04:00</updated><id>/news-launched</id><content type="html" xml:base="/news-launched/"><![CDATA[<p>The site news page has launched!</p>
 
 <p>(In fact, you’re looking at it right now)</p>
 
 <p>This page will host monthly changelogs, as well as site announcements. Keep an eye on the <a href="/">home page</a> for new posts.</p>]]></content><author><name>Collaberotica</name></author><category term="news" /><summary type="html"><![CDATA[The site news page has launched!]]></summary></entry><entry><title type="html">Development Log - Changes in March, 2023</title><link href="/log-23-3/" rel="alternate" type="text/html" title="Development Log - Changes in March, 2023" /><published>2023-03-01T00:00:00-05:00</published><updated>2023-03-01T00:00:00-05:00</updated><id>/log-23-3</id><content type="html" xml:base="/log-23-3/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+
+<h2 id="21">21</h2>
+
+<h4 id="stuff-added">Stuff Added</h4>
+
+<ul>
+  <li>Ability to log in with Discord
+    <ul>
+      <li>(We plan to add Twitter support, but our developer account hasn’t been approved yet)</li>
+    </ul>
+  </li>
+  <li>Adds <a href="https://www.buymeacoffee.com/collaberotica">BuyMeACoffee</a> link in the footer</li>
+  <li>Links have been “slugified” 🐌
+    <ul>
+      <li>before: <code class="language-plaintext highlighter-rouge">/stories/123/chapters/654</code></li>
+      <li>after: <code class="language-plaintext highlighter-rouge">/stories/123-story-name/chapters/654-chapter-name</code></li>
+    </ul>
+  </li>
+  <li>Chapters can now have gender pairing tags separate from the story</li>
+  <li>You no longer need your password to change your profile information</li>
+  <li>Author names now appear on:
+    <ul>
+      <li>Chapter links in the table of contents</li>
+      <li>Chapter links on interactive choices</li>
+    </ul>
+  </li>
+  <li>For linear stories, a “next” button appears aside the “previous” button in the chapter navbar</li>
+  <li>“What’s New” page now lists items by creation date
+    <ul>
+      <li>(A redesign for this page is planned)</li>
+    </ul>
+  </li>
+  <li>Removed herobrine</li>
+</ul>
+
+<h4 id="bugs-swatted">Bugs Swatted</h4>
+
+<ul>
+  <li>Changing your avatar should no longer occasionally result in a 500 error</li>
+  <li>Fixed the visual appearance of some notifications</li>
+</ul>
 
 <h2 id="16">16</h2>
 
@@ -27,13 +68,13 @@
   <li>Before:</li>
 </ul>
 
-<p><img src="/assets/img/323s1.png" width="400px" alt="search before" /></p>
+<p><img src="/assets/img/323s2.png" width="400px" alt="search after" /></p>
 
 <ul>
   <li>After:</li>
 </ul>
 
-<p><img src="/assets/img/323s2.png" width="400px" alt="search after" /></p>
+<p><img src="/assets/img/323s1.png" width="400px" alt="search before" /></p>
 
 <h2 id="10">10</h2>
 
