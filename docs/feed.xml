@@ -1,8 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-03-21T21:28:00-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Site News Launched</title><link href="/news-launched/" rel="alternate" type="text/html" title="Site News Launched" /><published>2023-03-16T00:00:00-04:00</published><updated>2023-03-16T00:00:00-04:00</updated><id>/news-launched</id><content type="html" xml:base="/news-launched/"><![CDATA[<p>The site news page has launched!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-03-24T19:48:46-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Site News Launched</title><link href="http://localhost:4000/news-launched/" rel="alternate" type="text/html" title="Site News Launched" /><published>2023-03-16T00:00:00-04:00</published><updated>2023-03-16T00:00:00-04:00</updated><id>http://localhost:4000/news-launched</id><content type="html" xml:base="http://localhost:4000/news-launched/"><![CDATA[<p>The site news page has launched!</p>
 
 <p>(In fact, you’re looking at it right now)</p>
 
-<p>This page will host monthly changelogs, as well as site announcements. Keep an eye on the <a href="/">home page</a> for new posts.</p>]]></content><author><name>Collaberotica</name></author><category term="news" /><summary type="html"><![CDATA[The site news page has launched!]]></summary></entry><entry><title type="html">Development Log - Changes in March, 2023</title><link href="/log-23-3/" rel="alternate" type="text/html" title="Development Log - Changes in March, 2023" /><published>2023-03-01T00:00:00-05:00</published><updated>2023-03-01T00:00:00-05:00</updated><id>/log-23-3</id><content type="html" xml:base="/log-23-3/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+<p>This page will host monthly changelogs, as well as site announcements. Keep an eye on the <a href="/">home page</a> for new posts.</p>]]></content><author><name>Collaberotica</name></author><category term="news" /><summary type="html"><![CDATA[The site news page has launched!]]></summary></entry><entry><title type="html">Development Log - Changes in March, 2023</title><link href="http://localhost:4000/log-23-3/" rel="alternate" type="text/html" title="Development Log - Changes in March, 2023" /><published>2023-03-01T00:00:00-05:00</published><updated>2023-03-01T00:00:00-05:00</updated><id>http://localhost:4000/log-23-3</id><content type="html" xml:base="http://localhost:4000/log-23-3/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+
+<h2 id="march-24">March 24</h2>
+
+<h3 id="-stuff-added">✨ Stuff Added✨</h3>
+
+<ul>
+  <li>The old What’s New page is now the Browse page, with lots of toplists and featured stories. Check it out!
+    <ul>
+      <li>The Dashboard page has also been redesigned to match the new Browse page</li>
+    </ul>
+  </li>
+  <li>Added a basic Tags page - you can sort through tags alphabetically, or by popularity
+    <ul>
+      <li>More to come on this page in the future!</li>
+    </ul>
+  </li>
+  <li>Tag limit is now 35, and stories’ short descriptions are now limited to 400 characters</li>
+</ul>
+
+<h3 id="-bugs-swatted-">🪲 Bugs Swatted 🪱</h3>
+<ul>
+  <li>Some caching issues have been fixed</li>
+</ul>
 
 <h2 id="march-21">March 21</h2>
 
