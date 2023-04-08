@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-04-04T14:23:16-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Development Log - Changes in April, 2023</title><link href="/log-23-3/" rel="alternate" type="text/html" title="Development Log - Changes in April, 2023" /><published>2023-04-01T00:00:00-04:00</published><updated>2023-04-01T00:00:00-04:00</updated><id>/log-23-3</id><content type="html" xml:base="/log-23-3/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-04-08T18:13:39-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Development Log - Changes in April, 2023</title><link href="/log-23-4/" rel="alternate" type="text/html" title="Development Log - Changes in April, 2023" /><published>2023-04-01T00:00:00-04:00</published><updated>2023-04-01T00:00:00-04:00</updated><id>/log-23-4</id><content type="html" xml:base="/log-23-4/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
 
-<h2 id="april-4">April 4</h2>
+<h2 id="april-8-2023---new-editor">April 8, 2023 - New Editor!</h2>
+
+<p>This is a big one. After careful consideration, we changed the rich text editor used throughout the site.</p>
+
+<p><img src="/assets/img/tinymce.png" width="700px" alt="editor after)" /></p>
+
+<p>The new editor, <a href="https://www.tiny.cloud/tinymce/">TinyMCE</a>, gives you way more style and formatting options than before, so it will be much easier to get your story to look the way you like. Also, copying and pasting content from other editors, like Microsoft Word or Google Docs, should be much more accurate.</p>
+
+<p>This is a very big change across the site. The way rich text content is presented has been changed everywhere. Of course, we’ve taken great care to ensure that anything written with the old editor was not changed. <strong>If you run into any issues, please don’t hesitate to <a href="https://collaberotica.org/tos/contact">contact us</a></strong>. 
+Community discussion, as always, will be on our <a href="https://collaberotica.org/discord">Discord</a>.</p>
+
+<p>Thanks again for choosing Collaberotica. We’re thrilled to grow with you!</p>
+
+<p>- DragonRhea &amp; Swai</p>
+
+<h2 id="april-4-2023">April 4, 2023</h2>
 <h3 id="-changes-">✨ Changes ✨</h3>
 <ul>
   <li>Lots of quality-of-life changes for Search
@@ -30,9 +45,8 @@ follow, or within stories you follow</li>
 
 <p>(In fact, you’re looking at it right now)</p>
 
-<p>This page will host monthly changelogs, as well as site announcements. Keep an eye on the <a href="/">home page</a> for new posts.</p>]]></content><author><name>Collaberotica</name></author><category term="news" /><summary type="html"><![CDATA[The site news page has launched!]]></summary></entry><entry><title type="html">Development Log - Changes in March, 2023</title><link href="/log-23-3/" rel="alternate" type="text/html" title="Development Log - Changes in March, 2023" /><published>2023-03-01T00:00:00-05:00</published><updated>2023-03-01T00:00:00-05:00</updated><id>/log-23-3</id><content type="html" xml:base="/log-23-3/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+<p>This page will host monthly changelogs, as well as site announcements. Keep an eye on the <a href="/">home page</a> for new posts.</p>]]></content><author><name>Collaberotica</name></author><category term="news" /><summary type="html"><![CDATA[The site news page has launched!]]></summary></entry><entry><title type="html">Development Log - Changes in March, 2023</title><link href="/log-23-3/" rel="alternate" type="text/html" title="Development Log - Changes in March, 2023" /><published>2023-03-01T00:00:00-05:00</published><updated>2023-03-01T00:00:00-05:00</updated><id>/log-23-3</id><content type="html" xml:base="/log-23-3/"><![CDATA[<h2 id="march-31-2023">March 31, 2023</h2>
 
-<h2 id="march-31">March 31</h2>
 <h3 id="-changes-">📣 Changes 📣</h3>
 <ul>
   <li>The like, dislike and follow buttons look better and more button-y</li>
@@ -48,7 +62,7 @@ follow, or within stories you follow</li>
   <li>Author names on chapter choices no longer wrap strangely when they’re long</li>
 </ul>
 
-<h2 id="march-30">March 30</h2>
+<h2 id="march-30-2023">March 30, 2023</h2>
 
 <h3 id="-minor-things-">✨ Minor things! ✨</h3>
 
@@ -63,7 +77,7 @@ follow, or within stories you follow</li>
 
 <p><img src="/assets/img/badge_preview.gif" width="600px" alt="search after" /></p>
 
-<h2 id="march-24">March 24</h2>
+<h2 id="march-24-2023">March 24, 2023</h2>
 
 <h3 id="-stuff-added">✨ Stuff Added✨</h3>
 
@@ -86,7 +100,7 @@ follow, or within stories you follow</li>
   <li>Some caching issues have been fixed</li>
 </ul>
 
-<h2 id="march-21">March 21</h2>
+<h2 id="march-21-2023">March 21, 2023</h2>
 
 <h4 id="stuff-added">Stuff Added</h4>
 
@@ -127,7 +141,7 @@ follow, or within stories you follow</li>
   <li>Fixed the visual appearance of some notifications</li>
 </ul>
 
-<h2 id="march-16">March 16</h2>
+<h2 id="march-16-2023">March 16, 2023</h2>
 
 <h5 id="single-chapter-stories-now-sync-tags-with-their-chapter">Single-chapter stories now sync tags with their chapter</h5>
 
@@ -136,7 +150,7 @@ follow, or within stories you follow</li>
   <li>This only applies when: the story is linear, it has only one chapter, and the chapter is designated as “the end”</li>
 </ul>
 
-<h2 id="march-14">March 14</h2>
+<h2 id="march-14-2023">March 14, 2023</h2>
 
 <h5 id="separated-first-chapter-creation-from-story-creation">Separated first-chapter creation from story creation</h5>
 
@@ -158,10 +172,10 @@ follow, or within stories you follow</li>
 
 <p><img src="/assets/img/323s1.png" width="400px" alt="search before" /></p>
 
-<h2 id="march-10">March 10</h2>
+<h2 id="march-10-2023">March 10, 2023</h2>
 
 <h5 id="registration-opened">Registration opened</h5>
 
 <p><img src="/assets/img/yay.png" width="200px" height="200px" alt="party popper" /></p>
 
-<p>(You have reached the earliest post of the development log!)</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[This page will be updated until the month is over.]]></summary></entry></feed>
+<p>(You have reached the earliest post of the development log!)</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[March 31, 2023]]></summary></entry></feed>

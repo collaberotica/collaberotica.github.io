@@ -1,10 +1,10 @@
 // Fonts preferences
-$sans-family:   Arial, Roboto, Helvetica Neue, Helvetica, sans-serif;
-$mono-family:  Consolas, monaco, monospace;
-$base-font-size: 16px;
+$sans-family: Arial, Roboto, Helvetica Neue, Helvetica, sans-serif;
+$mono-family: Consolas, monaco, monospace;
+$base-font-size: 19px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
-$base-line-height: 1.85;
+$base-line-height: 1.5;
 
 // Font weight
 // $light-weight: 300; // uncomment if necessary
@@ -24,11 +24,11 @@ $gray: #6b7886;
 $white: #fff;
 
 // Dark Colors
-$dark-text-base-color: #c7bebe;
+$dark-text-base-color: #d4d4d8; // zinc-300
 $dark-text-link-blue: rgb(216, 0, 97 );
 $dark-text-link-blue-active: rgb(216, 0, 97 );
 
-$dark-black: #131418;
+$dark-black:  rgb(31,31,36); // zinc-850
 $dark-white: #eaeaea;
 $dark-light: #1b1d25;
 $dark-smoke: #4a4d56;
@@ -39,7 +39,7 @@ $wide-size: 890px;
 $narrow-size: 720px;
 
 // Padding unit
-$spacing-full: 20px;
+$spacing-full: 1em;
 $spacing-half: $spacing-full / 2;
 
 // State of devices
