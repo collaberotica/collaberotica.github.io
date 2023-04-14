@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-04-08T18:13:39-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Development Log - Changes in April, 2023</title><link href="/log-23-4/" rel="alternate" type="text/html" title="Development Log - Changes in April, 2023" /><published>2023-04-01T00:00:00-04:00</published><updated>2023-04-01T00:00:00-04:00</updated><id>/log-23-4</id><content type="html" xml:base="/log-23-4/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-04-13T21:01:53-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Development Log - Changes in April, 2023</title><link href="/log-23-4/" rel="alternate" type="text/html" title="Development Log - Changes in April, 2023" /><published>2023-04-01T00:00:00-04:00</published><updated>2023-04-01T00:00:00-04:00</updated><id>/log-23-4</id><content type="html" xml:base="/log-23-4/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+
+<h2 id="april-13-2023">April 13, 2023</h2>
+
+<h3 id="-new-changes-">✨ New Changes ✨</h3>
+<ul>
+  <li>Added the <a href="https://collaberotica.org/about">About Us</a> and <a href="https://collaberotica.org/donate">Donate</a> pages</li>
+  <li>Added links to your unpublished stories on the Write Something page, in case you forgot about them</li>
+</ul>
+
+<h3 id="-design-changes-">🌈 Design Changes 🌈</h3>
+<ul>
+  <li>Adjusted login, register pages</li>
+  <li>Enwidened the browse page</li>
+  <li>Chapter choices look much better on mobile</li>
+  <li>Experiment: removed the tags icon</li>
+</ul>
 
 <h2 id="april-8-2023---new-editor">April 8, 2023 - New Editor!</h2>
 
