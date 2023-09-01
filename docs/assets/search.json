@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Development Log - Changes in September, 2023",
+      "description" : "",
+      "tags"     : "devlog",
+      "url"      : "/log-23-5/",
+      "date"     : "2023-09-01 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Development Log - Changes in May, 2023",
       "description" : "",
       "tags"     : "devlog",

@@ -1,6 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-05-29T16:44:17-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Development Log - Changes in May, 2023</title><link href="/log-23-5/" rel="alternate" type="text/html" title="Development Log - Changes in May, 2023" /><published>2023-05-01T00:00:00-04:00</published><updated>2023-05-01T00:00:00-04:00</updated><id>/log-23-5</id><content type="html" xml:base="/log-23-5/"><![CDATA[<p><em>This page will be updated until the month is over.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-01T19:14:04-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Development Log - Changes in September, 2023</title><link href="/log-23-5/" rel="alternate" type="text/html" title="Development Log - Changes in September, 2023" /><published>2023-09-01T00:00:00-04:00</published><updated>2023-09-01T00:00:00-04:00</updated><id>/log-23-5</id><content type="html" xml:base="/log-23-5/"><![CDATA[<h2 id="september-1-2023">September 1, 2023</h2>
 
-<h2 id="may-28-2023">May 28, 2023</h2>
+<p>Hey, it’s been a while!</p>
+
+<h3 id="new-changes-">New Changes ✨</h3>
+
+<ul>
+  <li>Direct Messaging Privacy
+    <ul>
+      <li>You now have control over who can message you:
+        <ol>
+          <li>Nobody</li>
+          <li>Mutuals (you like and follow each other)</li>
+          <li>Everyone</li>
+        </ol>
+      </li>
+      <li>Check out the options under Your User Page -&gt; Edit</li>
+      <li>Does not affect existing conversations</li>
+    </ul>
+  </li>
+  <li>Layout changes to story and chapter pages:
+    <ul>
+      <li>Navigation links now appear differently between mobile and  desktop:
+        <ul>
+          <li>Mobile nav links are now in a sticky bar at the bottom</li>
+          <li>Desktop nav links are now in a sticky sidebar</li>
+        </ul>
+      </li>
+      <li>A gap has been added to the bottom of these pages for eyeline consistency while reading</li>
+      <li>Various consistency adjustments</li>
+    </ul>
+  </li>
+  <li>View counting
+    <ul>
+      <li>You can no longer rack up views on your own chapters</li>
+    </ul>
+  </li>
+  <li>When registering an account through Twitter, Discord, etc, names and pictures are no longer imported. This respects privacy and prevents name collisions</li>
+  <li>Removed the likes/dislikes green/red bar</li>
+</ul>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[September 1, 2023]]></summary></entry><entry><title type="html">Development Log - Changes in May, 2023</title><link href="/log-23-5/" rel="alternate" type="text/html" title="Development Log - Changes in May, 2023" /><published>2023-05-01T00:00:00-04:00</published><updated>2023-05-01T00:00:00-04:00</updated><id>/log-23-5</id><content type="html" xml:base="/log-23-5/"><![CDATA[<h2 id="may-28-2023">May 28, 2023</h2>
 
 <h3 id="new-features-">New Features ✨</h3>
 
@@ -61,7 +98,7 @@ Import A Story
   <li><b>Import stories from external sites</b></li>
 </ul>
 
-<p>Have you noticed the interactive stories that were imported from writing.com? This is a new feature we’re working on! If you are the owner of an interactive story on writing.com, you’ll be able to import it to Collaberotica. Other sites may also be available. We’re currently working on a way to import stories from the site itself. But if you want your story imported now, <a href="https://collaberotica.org/conversations/new?users%5B%5D=4">contact Swai</a> and ask for your story to be imported.</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[This page will be updated until the month is over.]]></summary></entry><entry><title type="html">Development Log - Changes in April, 2023</title><link href="/log-23-4/" rel="alternate" type="text/html" title="Development Log - Changes in April, 2023" /><published>2023-04-01T00:00:00-04:00</published><updated>2023-04-01T00:00:00-04:00</updated><id>/log-23-4</id><content type="html" xml:base="/log-23-4/"><![CDATA[<h2 id="april-22-2023">April 22, 2023</h2>
+<p>Have you noticed the interactive stories that were imported from writing.com? This is a new feature we’re working on! If you are the owner of an interactive story on writing.com, you’ll be able to import it to Collaberotica. Other sites may also be available. We’re currently working on a way to import stories from the site itself. But if you want your story imported now, <a href="https://collaberotica.org/conversations/new?users%5B%5D=4">contact Swai</a> and ask for your story to be imported.</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[May 28, 2023]]></summary></entry><entry><title type="html">Development Log - Changes in April, 2023</title><link href="/log-23-4/" rel="alternate" type="text/html" title="Development Log - Changes in April, 2023" /><published>2023-04-01T00:00:00-04:00</published><updated>2023-04-01T00:00:00-04:00</updated><id>/log-23-4</id><content type="html" xml:base="/log-23-4/"><![CDATA[<h2 id="april-22-2023">April 22, 2023</h2>
 
 <h3 id="new-features-">New Features ✨</h3>
 
