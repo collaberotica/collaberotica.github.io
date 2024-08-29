@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Changes in August, 2024",
+      "description" : "",
+      "tags"     : "devlog",
+      "url"      : "/log-24-8/",
+      "date"     : "2024-08-01 00:00:00 -0400"
+    } ,
+  
+    {
       "title"    : "Changes in February, 2024",
       "description" : "",
       "tags"     : "devlog",
