@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-02-25T01:02:56-05:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">Changes in February, 2025</title><link href="/log-25-2/" rel="alternate" type="text/html" title="Changes in February, 2025" /><published>2025-02-01T00:00:00-05:00</published><updated>2025-02-01T00:00:00-05:00</updated><id>/log-25-2</id><content type="html" xml:base="/log-25-2/"><![CDATA[<h2 id="february-24">February 24</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-02-25T17:56:46-05:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="february-25">February 25</h2>
 
 <ul>
   <li>You will now receive emails when someone adds a chapter to your content. Specifically, when:
     <ul>
       <li>A chapter is added to your story, or a story you edit</li>
       <li>A chapter is added after any chapter you wrote</li>
+      <li>Note: these emails are opt-out. You can adjust your chapter email preferences here: <a href="https://collaberotica.org/users/edit">https://collaberotica.org/users/edit</a></li>
     </ul>
   </li>
-  <li>These emails are opt-out. You can adjust your chapter email preferences here: <a href="https://collaberotica.org/users/edit">https://collaberotica.org/users/edit</a></li>
-  <li>We would like to know what other kinds of emails you might like to receive. Let us know here or at: <a href="https://collaberotica.org/tos/feedack">https://collaberotica.org/tos/feedack</a></li>
+  <li>We would like to know what other kinds of emails you want like to receive. Let us know here or at: <a href="https://collaberotica.org/tos/feedack">https://collaberotica.org/tos/feedack</a></li>
   <li>Adjusted how views are counted. They should be more accurate now.</li>
   <li>Made the age gate/cookie consent banner a bit friendlier</li>
   <li>Added a secret</li>
 </ul>
 
 <p>As always, feedback can be left <a href="https://collaberotica.org/tos/feedack">here</a>
-Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[February 24]]></summary></entry><entry><title type="html">Changes in January, 2025</title><link href="/log-25-1/" rel="alternate" type="text/html" title="Changes in January, 2025" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-25-1</id><content type="html" xml:base="/log-25-1/"><![CDATA[<h2 id="january-5-2025">January 5, 2025</h2>
+Or on <a href="https://collaberotica.org/discord">discord</a></p>
+<h2 id="january-5-2025">January 5, 2025</h2>
 
 <ul>
   <li>Bots and Admins now have badges everywhere to make them more easily identifiable</li>
@@ -36,13 +37,13 @@ Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><a
 </ul>
 
 <p>As always, feedback can be left <a href="https://collaberotica.org/tos/feedack">here</a>
-Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[January 5, 2025]]></summary></entry><entry><title type="html">Changes in December, 2024</title><link href="/log-24-12/" rel="alternate" type="text/html" title="Changes in December, 2024" /><published>2024-12-01T00:00:00-05:00</published><updated>2024-12-01T00:00:00-05:00</updated><id>/log-24-12</id><content type="html" xml:base="/log-24-12/"><![CDATA[<h2 id="december-31-2024">December 31, 2024</h2>
+Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[February 25]]></summary></entry><entry><title type="html">2024 Changelog</title><link href="/log-2024/" rel="alternate" type="text/html" title="2024 Changelog" /><published>2024-01-01T00:00:00-05:00</published><updated>2024-01-01T00:00:00-05:00</updated><id>/log-2024</id><content type="html" xml:base="/log-2024/"><![CDATA[<h2 id="december-31-2024">December 31, 2024</h2>
 
 <ul>
-  <li>Dislikes have been removed. After more than a year of Collaberotica, we have seen:
+  <li>Dislikes have been removed. Thus far, we have seen:
     <ul>
-      <li>Approximately 3000 likes across stories, chapters, users, and series.</li>
-      <li>15 dislikes.</li>
+      <li>Over 3000 likes across stories, chapters, users, and series</li>
+      <li>15 dislikes</li>
     </ul>
 
     <p>It is not a popular feature, and in our opinion, it is not a productive way of leaving feedback for authors, nor does it help people filter out content they might not like.</p>
@@ -50,7 +51,9 @@ Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><a
 </ul>
 
 <p>As always, feedback can be left <a href="https://collaberotica.org/tos/feedack">here</a>
-Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[December 31, 2024]]></summary></entry><entry><title type="html">Changes in August, 2024</title><link href="/log-24-8/" rel="alternate" type="text/html" title="Changes in August, 2024" /><published>2024-08-01T00:00:00-04:00</published><updated>2024-08-01T00:00:00-04:00</updated><id>/log-24-8</id><content type="html" xml:base="/log-24-8/"><![CDATA[<h2 id="august-29-2024">August 29, 2024</h2>
+Or on <a href="https://collaberotica.org/discord">discord</a></p>
+
+<h2 id="august-29-2024">August 29, 2024</h2>
 
 <ul>
   <li>When adding or editing tags, you can now copy and paste a list of tags separated by commas to add them all at once
@@ -62,7 +65,8 @@ Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><a
 </ul>
 
 <p>As always, feedback can be left <a href="https://collaberotica.org/tos/feedack">here</a>
-Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[August 29, 2024]]></summary></entry><entry><title type="html">Changes in February, 2024</title><link href="/log-24-2/" rel="alternate" type="text/html" title="Changes in February, 2024" /><published>2024-02-01T00:00:00-05:00</published><updated>2024-02-01T00:00:00-05:00</updated><id>/log-24-2</id><content type="html" xml:base="/log-24-2/"><![CDATA[<h2 id="february-2-2024">February 2, 2024</h2>
+Or on <a href="https://collaberotica.org/discord">discord</a></p>
+<h2 id="february-2-2024">February 2, 2024</h2>
 
 <h3 id="new-changes-">New Changes ✨</h3>
 
@@ -85,7 +89,7 @@ Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><a
 </ul>
 
 <p>As always, feedback can be left <a href="https://collaberotica.org/tos/feedack">here</a>
-Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[February 2, 2024]]></summary></entry><entry><title type="html">Changes in September, 2023</title><link href="/log-23-9/" rel="alternate" type="text/html" title="Changes in September, 2023" /><published>2023-09-01T00:00:00-04:00</published><updated>2023-09-01T00:00:00-04:00</updated><id>/log-23-9</id><content type="html" xml:base="/log-23-9/"><![CDATA[<h2 id="september-1-2023">September 1, 2023</h2>
+Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[December 31, 2024]]></summary></entry><entry><title type="html">2023 Changelog</title><link href="/log-2023/" rel="alternate" type="text/html" title="2023 Changelog" /><published>2023-01-01T00:00:00-05:00</published><updated>2023-01-01T00:00:00-05:00</updated><id>/log-2023</id><content type="html" xml:base="/log-2023/"><![CDATA[<h2 id="september-1-2023">September 1, 2023</h2>
 
 <h3 id="new-changes-">New Changes ✨</h3>
 
@@ -122,7 +126,9 @@ Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><a
   </li>
   <li>When registering an account through Twitter, Discord, etc, names and pictures are no longer imported. This respects privacy and prevents name collisions</li>
   <li>Removed the likes/dislikes green/red bar</li>
-</ul>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[September 1, 2023]]></summary></entry><entry><title type="html">Changes in May, 2023</title><link href="/log-23-5/" rel="alternate" type="text/html" title="Changes in May, 2023" /><published>2023-05-01T00:00:00-04:00</published><updated>2023-05-01T00:00:00-04:00</updated><id>/log-23-5</id><content type="html" xml:base="/log-23-5/"><![CDATA[<h2 id="may-28-2023">May 28, 2023</h2>
+</ul>
+
+<h2 id="may-28-2023">May 28, 2023</h2>
 
 <h3 id="new-features-">New Features ✨</h3>
 
@@ -183,9 +189,11 @@ Import A Story
   <li><b>Import stories from external sites</b></li>
 </ul>
 
-<p>Have you noticed the interactive stories that were imported from writing.com? This is a new feature we’re working on! If you are the owner of an interactive story on writing.com, you’ll be able to import it to Collaberotica. Other sites may also be available. We’re currently working on a way to import stories from the site itself. But if you want your story imported now, <a href="https://collaberotica.org/conversations/new?users%5B%5D=4">contact Swai</a> and ask for your story to be imported.</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[May 28, 2023]]></summary></entry><entry><title type="html">Changes in April, 2023</title><link href="/log-23-4/" rel="alternate" type="text/html" title="Changes in April, 2023" /><published>2023-04-01T00:00:00-04:00</published><updated>2023-04-01T00:00:00-04:00</updated><id>/log-23-4</id><content type="html" xml:base="/log-23-4/"><![CDATA[<h2 id="april-22-2023">April 22, 2023</h2>
+<p>Have you noticed the interactive stories that were imported from writing.com? This is a new feature we’re working on! If you are the owner of an interactive story on writing.com, you’ll be able to import it to Collaberotica. Other sites may also be available. We’re currently working on a way to import stories from the site itself. But if you want your story imported now, <a href="https://collaberotica.org/conversations/new?users%5B%5D=4">contact Swai</a> and ask for your story to be imported.</p>
 
-<h3 id="new-features-">New Features ✨</h3>
+<h2 id="april-22-2023">April 22, 2023</h2>
+
+<h3 id="new-features--2">New Features ✨</h3>
 
 <ul>
   <li><b>Add cover art to your stories!</b>
@@ -297,20 +305,18 @@ follow, or within stories you follow</li>
   </li>
   <li>fixed some icons on mobile</li>
   <li>performance issues</li>
-</ul>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[April 22, 2023]]></summary></entry><entry><title type="html">Site News Launched</title><link href="/news-launched/" rel="alternate" type="text/html" title="Site News Launched" /><published>2023-03-16T00:00:00-04:00</published><updated>2023-03-16T00:00:00-04:00</updated><id>/news-launched</id><content type="html" xml:base="/news-launched/"><![CDATA[<p>The site news page has launched!</p>
+</ul>
 
-<p>(In fact, you’re looking at it right now)</p>
+<h2 id="march-31-2023">March 31, 2023</h2>
 
-<p>This page will host monthly changelogs, as well as site announcements. Keep an eye on the <a href="/">home page</a> for new posts.</p>]]></content><author><name>Collaberotica</name></author><category term="news" /><summary type="html"><![CDATA[The site news page has launched!]]></summary></entry><entry><title type="html">Changes in March, 2023</title><link href="/log-23-3/" rel="alternate" type="text/html" title="Changes in March, 2023" /><published>2023-03-01T00:00:00-05:00</published><updated>2023-03-01T00:00:00-05:00</updated><id>/log-23-3</id><content type="html" xml:base="/log-23-3/"><![CDATA[<h2 id="march-31-2023">March 31, 2023</h2>
-
-<h3 id="-changes-">📣 Changes 📣</h3>
+<h3 id="-changes--1">📣 Changes 📣</h3>
 <ul>
   <li>The like, dislike and follow buttons look better and more button-y</li>
   <li>Added a “Recent” section on the browse page, to let you switch between new stories, chapters, and even polls</li>
   <li>Added a cute sunrise to the beta tester badge</li>
 </ul>
 
-<h3 id="-bugfixes-">🐞 Bugfixes 🐞</h3>
+<h3 id="-bugfixes--1">🐞 Bugfixes 🐞</h3>
 <ul>
   <li>You can’t like/dislike/follow yourself or your work</li>
   <li>Liking comments is fixed!</li>
@@ -434,4 +440,4 @@ follow, or within stories you follow</li>
 
 <p><img src="/assets/img/yay.png" width="200px" height="200px" alt="party popper" /></p>
 
-<p>(You have reached the earliest post of the development log!)</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[March 31, 2023]]></summary></entry></feed>
+<p>(You have reached the earliest post of the development log!)</p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[September 1, 2023]]></summary></entry></feed>
