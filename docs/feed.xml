@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-04-26T18:32:03-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="april-26">April 26</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-05-05T20:54:52-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="may-5">May 5</h2>
+
+<ul>
+  <li>added word counts to stories</li>
+  <li>added word counts to author contribution pages on stories:</li>
+</ul>
+
+<p><img src="/assets/img/authpga.png" width="300" style="margin:auto;display: block; margin: auto;" />
+<br />
+<img src="/assets/img/authpgb.png" width="500" style="margin:auto;display: block; margin: auto;" /></p>
+
+<ul>
+  <li>added chapter contributions to the user page, chapter tab:
+<img src="/assets/img/authcontrib1.png" width="500" style="margin:auto;display: block; margin: auto;" />
+<br />
+<img src="/assets/img/authcontribb.png" width="500" style="margin:auto;display: block; margin: auto;" /></li>
+  <li>adjusted the appearance of likes, follows, and comments on story/chapter cards</li>
+</ul>
+
+<h2 id="april-26">April 26</h2>
 
 <ul>
   <li>Author profiles include the total number of likes they received on their chapters, stories, comments, etc</li>
@@ -51,7 +70,7 @@ Or on <a href="https://collaberotica.org/discord">discord</a></p>
 </ul>
 
 <p>As always, feedback can be left <a href="https://collaberotica.org/tos/feedack">here</a>
-Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[April 26]]></summary></entry><entry><title type="html">2024 Changelog</title><link href="/log-2024/" rel="alternate" type="text/html" title="2024 Changelog" /><published>2024-01-01T00:00:00-05:00</published><updated>2024-01-01T00:00:00-05:00</updated><id>/log-2024</id><content type="html" xml:base="/log-2024/"><![CDATA[<h2 id="december-31-2024">December 31, 2024</h2>
+Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[May 5]]></summary></entry><entry><title type="html">2024 Changelog</title><link href="/log-2024/" rel="alternate" type="text/html" title="2024 Changelog" /><published>2024-01-01T00:00:00-05:00</published><updated>2024-01-01T00:00:00-05:00</updated><id>/log-2024</id><content type="html" xml:base="/log-2024/"><![CDATA[<h2 id="december-31-2024">December 31, 2024</h2>
 
 <ul>
   <li>Dislikes have been removed. Thus far, we have seen:
