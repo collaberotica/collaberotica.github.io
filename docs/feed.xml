@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-05-05T20:54:52-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="may-5">May 5</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-05-31T16:31:06-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="may-31">May 31</h2>
+
+<ul>
+  <li>significant visual changes to many things, in particular:
+    <ul>
+      <li>stories and chapters</li>
+      <li>the home page</li>
+      <li>comments</li>
+    </ul>
+  </li>
+  <li>You can now filter searches by:
+    <ul>
+      <li>longest and shortest (by word count)</li>
+      <li>most/least liked</li>
+      <li>“most/least popular” was renamed to “most/least viewed” for clarity</li>
+    </ul>
+  </li>
+  <li>likes are now hearts ❤️</li>
+  <li>view counts should ignore most web scrapers now</li>
+  <li>updated the Terms of Service, particularly the content policy</li>
+</ul>
+
+<h2 id="may-5">May 5</h2>
 
 <ul>
   <li>added word counts to stories</li>
@@ -70,7 +92,7 @@ Or on <a href="https://collaberotica.org/discord">discord</a></p>
 </ul>
 
 <p>As always, feedback can be left <a href="https://collaberotica.org/tos/feedack">here</a>
-Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[May 5]]></summary></entry><entry><title type="html">2024 Changelog</title><link href="/log-2024/" rel="alternate" type="text/html" title="2024 Changelog" /><published>2024-01-01T00:00:00-05:00</published><updated>2024-01-01T00:00:00-05:00</updated><id>/log-2024</id><content type="html" xml:base="/log-2024/"><![CDATA[<h2 id="december-31-2024">December 31, 2024</h2>
+Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[May 31]]></summary></entry><entry><title type="html">2024 Changelog</title><link href="/log-2024/" rel="alternate" type="text/html" title="2024 Changelog" /><published>2024-01-01T00:00:00-05:00</published><updated>2024-01-01T00:00:00-05:00</updated><id>/log-2024</id><content type="html" xml:base="/log-2024/"><![CDATA[<h2 id="december-31-2024">December 31, 2024</h2>
 
 <ul>
   <li>Dislikes have been removed. Thus far, we have seen:
