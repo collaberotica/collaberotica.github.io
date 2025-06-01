@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-05-31T16:31:06-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="may-31">May 31</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-05-31T20:18:22-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="may-31">May 31</h2>
 
 <ul>
   <li>significant visual changes to many things, in particular:
@@ -8,7 +8,7 @@
       <li>comments</li>
     </ul>
   </li>
-  <li>You can now filter searches by:
+  <li>You can now sort searches by:
     <ul>
       <li>longest and shortest (by word count)</li>
       <li>most/least liked</li>
