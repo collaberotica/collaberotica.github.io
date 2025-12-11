@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-10-13T16:16:19-04:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="october-13">October 13</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-12-11T01:00:25-05:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="december-10">December 10</h2>
+
+<p><strong>Introducing: Collections</strong></p>
+
+<p>Collections are a way for you to organize stories and chapters you like, and share them with the world. Everyone can now create collections and add stories/chapters to them.</p>
+
+<p>This is a new top-level feature! On the “Collections” page, you can see the collections people have created:</p>
+
+<p><img src="/assets/img/collectindex.png" style="border:2px solid black; border-radius:15px;margin:auto;display: block; margin: auto;" /></p>
+
+<p>While reading a story/chapter, use the new “Collect” button on the navbar to add it to a collection:</p>
+
+<p><img src="/assets/img/colecbutdesk.png" style="border:2px solid black; border-radius:15px;margin:auto;display: block; margin: auto;" /></p>
+<p style="text-align: center;">
+	(desktop)
+</p>
+
+<p><img src="/assets/img/colecbutmob.png" style="border:2px solid black; border-radius:15px;margin:auto;display: block; margin: auto;" /></p>
+<p style="text-align: center;">
+	(mobile)
+</p>
+
+<p>From here, you can add it to any collection of yours.</p>
+
+<p><img src="/assets/img/colecwork.png" style="border:2px solid black; border-radius:15px;margin:auto;display: block; margin: auto;" /></p>
+
+<p>Of course, you can also create a collection. You can create a public collection, which other people can see, or you can create a private collection:</p>
+
+<p><img src="/assets/img/colecworknewcolec.png" style="border:2px solid black; border-radius:15px;margin:auto;display: block; margin: auto;" /></p>
+
+<p>A couple empty collections are already created for you, for ease of use.</p>
+
+<p>To see your private collections, go to your user page:</p>
+
+<p><img src="/assets/img/colecyours.png" style="border:2px solid black; border-radius:15px;margin:auto;display: block; margin: auto;" /></p>
+
+<p>This is the first time that readers will really able to promote and share works within CollabErotica, so I’m excited to see how people use collections.</p>
+
+<p>Some ideas:</p>
+
+<ul>
+  <li>A collection of works that you think deserve more recognition</li>
+  <li>A private collection of works you want to read, but haven’t read yet</li>
+  <li>A collection of works that really scratch your particular itch ;)</li>
+</ul>
+
+<p>By the way, this is an “MVP” or “first draft” of the collections feature. There are a couple things I want to add, including a way to see which collections a story/chapter has been added to. Also, for now, only public works can be added to collections.</p>
+
+<p>As always, you can leave feedback <a href="https://collaberotica.org/tos/contact">here</a>.</p>
+
+<h2 id="october-13">October 13</h2>
 
 <ul>
   <li>Paths have been upgraded. For interactives, you can now easily read the whole story up to any chapter.</li>
@@ -153,7 +203,7 @@ Or on <a href="https://collaberotica.org/discord">discord</a></p>
 </ul>
 
 <p>As always, feedback can be left <a href="https://collaberotica.org/tos/feedack">here</a>
-Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[October 13]]></summary></entry><entry><title type="html">2024 Changelog</title><link href="/log-2024/" rel="alternate" type="text/html" title="2024 Changelog" /><published>2024-01-01T00:00:00-05:00</published><updated>2024-01-01T00:00:00-05:00</updated><id>/log-2024</id><content type="html" xml:base="/log-2024/"><![CDATA[<h2 id="december-31-2024">December 31, 2024</h2>
+Or on <a href="https://collaberotica.org/discord">discord</a></p>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[December 10]]></summary></entry><entry><title type="html">2024 Changelog</title><link href="/log-2024/" rel="alternate" type="text/html" title="2024 Changelog" /><published>2024-01-01T00:00:00-05:00</published><updated>2024-01-01T00:00:00-05:00</updated><id>/log-2024</id><content type="html" xml:base="/log-2024/"><![CDATA[<h2 id="december-31-2024">December 31, 2024</h2>
 
 <ul>
   <li>Dislikes have been removed. Thus far, we have seen:
