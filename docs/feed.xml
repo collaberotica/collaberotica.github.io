@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2026-01-02T16:09:07-05:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2026 Changelog</title><link href="/log-2026/" rel="alternate" type="text/html" title="2026 Changelog" /><published>2026-01-01T00:00:00-05:00</published><updated>2026-01-01T00:00:00-05:00</updated><id>/log-2026</id><content type="html" xml:base="/log-2026/"><![CDATA[<h2 id="january-2">January 2</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2026-01-10T23:47:15-05:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2026 Changelog</title><link href="/log-2026/" rel="alternate" type="text/html" title="2026 Changelog" /><published>2026-01-01T00:00:00-05:00</published><updated>2026-01-01T00:00:00-05:00</updated><id>/log-2026</id><content type="html" xml:base="/log-2026/"><![CDATA[<h2 id="january-10">January 10</h2>
+
+<ul>
+  <li>A whole bunch of performance improvements</li>
+</ul>
+
+<h2 id="january-2">January 2</h2>
 
 <ul>
   <li>Changed the mobile layout of the home page slightly, and added a link to our example interactive there.</li>
@@ -9,7 +15,7 @@
 <ul>
   <li>Added a “following feed” page, accessible from the dropdown after you click your profile picture in the top navbar. This is essentially a bookmarkable version of the “Following” tab on the home page, but it also shows more items per page.</li>
   <li>Did some database updates</li>
-</ul>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[January 2]]></summary></entry><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="december-20">December 20</h2>
+</ul>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[January 10]]></summary></entry><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="december-20">December 20</h2>
 
 <ul>
   <li>Added text to the like/follow buttons</li>
