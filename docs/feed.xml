@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2026-02-16T17:56:44-05:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2026 Changelog</title><link href="/log-2026/" rel="alternate" type="text/html" title="2026 Changelog" /><published>2026-01-01T00:00:00-05:00</published><updated>2026-01-01T00:00:00-05:00</updated><id>/log-2026</id><content type="html" xml:base="/log-2026/"><![CDATA[<h2 id="february-16">February 16</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2026-02-24T23:18:54-05:00</updated><id>/feed.xml</id><title type="html">Collaberotica News</title><subtitle>Collaberotica news</subtitle><author><name>Collaberotica</name></author><entry><title type="html">2026 Changelog</title><link href="/log-2026/" rel="alternate" type="text/html" title="2026 Changelog" /><published>2026-01-01T00:00:00-05:00</published><updated>2026-01-01T00:00:00-05:00</updated><id>/log-2026</id><content type="html" xml:base="/log-2026/"><![CDATA[<h2 id="february-24">February 24</h2>
+
+<p>Redesigned the Dashboard page.</p>
+<ul>
+  <li>It’s now easier to see all of the content and activity you’ve created on the site. Stories, chapters, likes, comments, etc.</li>
+  <li>It’s now easier to see all stories shared with you. For example, if you can see a private story, or if you’re an editor of a story.</li>
+  <li>If you’re an editor, it’s now easier to see whether you have any chapters to review.</li>
+</ul>
+
+<p><a href="https://collaberotica.org/dashboard">collaberotica.org/dashboard</a></p>
+
+<h2 id="february-16">February 16</h2>
 
 <ul>
   <li>HUGE changes to forms - the pages where you write stories, write chapters, add things to collections. I’ve overhauled the appearance of pretty much all forms to make them easier to use. If you run into issues, don’t hesitate to leave <a href="https://collaberotica.org/tos/contact">feedback</a>. Thank you!</li>
@@ -9,7 +20,6 @@
 
 <ul>
   <li>Some layout changes.</li>
-  <li>Time flies! It’s almost mid-Februrary.</li>
 </ul>
 
 <h2 id="february-1">February 1</h2>
@@ -53,7 +63,7 @@
 <ul>
   <li>Added a “following feed” page, accessible from the dropdown after you click your profile picture in the top navbar. This is essentially a bookmarkable version of the “Following” tab on the home page, but it also shows more items per page.</li>
   <li>Did some database updates</li>
-</ul>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[February 16]]></summary></entry><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="december-20">December 20</h2>
+</ul>]]></content><author><name>Collaberotica</name></author><category term="devlog" /><summary type="html"><![CDATA[February 24]]></summary></entry><entry><title type="html">2025 Changelog</title><link href="/log-2025/" rel="alternate" type="text/html" title="2025 Changelog" /><published>2025-01-01T00:00:00-05:00</published><updated>2025-01-01T00:00:00-05:00</updated><id>/log-2025</id><content type="html" xml:base="/log-2025/"><![CDATA[<h2 id="december-20">December 20</h2>
 
 <ul>
   <li>Added text to the like/follow buttons</li>
